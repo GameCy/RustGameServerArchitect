@@ -1,8 +1,8 @@
 {
   "name": "rust-game-server-architect",
-  "homepage": "https://GameCy.github.io/RustGameServerArchitect",
+  "homepage": "https://gamecy.github.io/RustGameServerArchitect/",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
