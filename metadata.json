@@ -1,0 +1,5 @@
+{
+  "name": "Rust Game Server Architect",
+  "description": "A comprehensive dashboard to visualize, track, and simulate the Rust Game Server project plan. Includes interactive project steps, architecture diagrams (WAL/Tonic), protocol inspection, and a mock web client implementation.",
+  "requestFramePermissions": []
+}
